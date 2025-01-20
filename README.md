@@ -1,16 +1,10 @@
-# myapp
+# Jogo da Velha (Tic Tac Toe) - Flutter Web
 
-A new Flutter project.
+Este projeto é um jogo da velha (Tic Tac Toe) simples, desenvolvido com Flutter, com a opção de jogar contra outro jogador humano ou contra o computador. O jogo foi projetado para ser responsivo, funcionando tanto em dispositivos móveis quanto em desktops, ajustando automaticamente o layout conforme o tamanho da tela.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Jogar contra outro humano**: Dois jogadores podem interagir na mesma tela, alternando entre 'X' e 'O'.
+- **Jogar contra o computador**: O jogador pode optar por jogar contra a inteligência artificial, onde o computador escolhe automaticamente uma jogada aleatória.
+- **Responsivo**: O layout se ajusta dinamicamente ao tamanho da tela, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
+- **Reinício de Jogo**: Após o fim de uma partida (vitória ou empate), o jogador pode reiniciar o jogo com um único clique.
