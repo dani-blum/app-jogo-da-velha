@@ -1,6 +1,6 @@
-# Jogo da Velha (Tic Tac Toe) - Flutter Web
+# Jogo da Velha 
 
-Este projeto é um jogo da velha (Tic Tac Toe) simples, desenvolvido com Flutter, com a opção de jogar contra outro jogador humano ou contra o computador. O jogo foi projetado para ser responsivo, funcionando tanto em dispositivos móveis quanto em desktops, ajustando automaticamente o layout conforme o tamanho da tela.
+Este projeto é um jogo da velha simples, desenvolvido com Flutter, com a opção de jogar contra outro jogador humano ou contra o computador. O jogo foi projetado para ser responsivo, funcionando tanto em dispositivos móveis quanto em desktops, ajustando automaticamente o layout conforme o tamanho da tela.
 
 ## Funcionalidades
 
